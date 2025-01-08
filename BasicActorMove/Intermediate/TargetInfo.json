@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BasicActorMove",
+			"Path": "..\\Source\\BasicActorMove.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BasicActorMoveEditor",
+			"Path": "..\\Source\\BasicActorMoveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
