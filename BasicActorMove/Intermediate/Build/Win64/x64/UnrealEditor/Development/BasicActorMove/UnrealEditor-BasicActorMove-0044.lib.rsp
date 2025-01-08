@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BasicActorMove-0044.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Junmo\Desktop\Assignment\CH2_Assignment_5\BasicActorMove\Intermediate\Build\Win64\x64\BasicActorMoveEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Junmo\Desktop\Assignment\CH2_Assignment_5\BasicActorMove\Intermediate\Build\Win64\x64\UnrealEditor\Development\BasicActorMove\BasicActorMove.init.gen.cpp.obj"
+"C:\Users\Junmo\Desktop\Assignment\CH2_Assignment_5\BasicActorMove\Intermediate\Build\Win64\x64\UnrealEditor\Development\BasicActorMove\MyActor.gen.cpp.obj"
+"C:\Users\Junmo\Desktop\Assignment\CH2_Assignment_5\BasicActorMove\Intermediate\Build\Win64\x64\UnrealEditor\Development\BasicActorMove\BasicActorMove.cpp.obj"
+"C:\Users\Junmo\Desktop\Assignment\CH2_Assignment_5\BasicActorMove\Intermediate\Build\Win64\x64\UnrealEditor\Development\BasicActorMove\MyActor.cpp.obj"
+"C:\Users\Junmo\Desktop\Assignment\CH2_Assignment_5\BasicActorMove\Intermediate\Build\Win64\x64\UnrealEditor\Development\BasicActorMove\PerModuleInline.gen.cpp.obj"
+"C:\Users\Junmo\Desktop\Assignment\CH2_Assignment_5\BasicActorMove\Intermediate\Build\Win64\x64\UnrealEditor\Development\BasicActorMove\Default.rc2.res"
+/OUT:"C:\Users\Junmo\Desktop\Assignment\CH2_Assignment_5\BasicActorMove\Intermediate\Build\Win64\x64\UnrealEditor\Development\BasicActorMove\UnrealEditor-BasicActorMove-0044.lib"

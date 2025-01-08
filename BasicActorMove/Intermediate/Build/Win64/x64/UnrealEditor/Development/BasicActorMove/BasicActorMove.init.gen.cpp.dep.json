@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\junmo\\desktop\\assignment\\ch2_assignment_5\\basicactormove\\intermediate\\build\\win64\\unrealeditor\\inc\\basicactormove\\uht\\basicactormove.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\junmo\\desktop\\assignment\\ch2_assignment_5\\basicactormove\\intermediate\\build\\win64\\x64\\basicactormoveeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\junmo\\desktop\\assignment\\ch2_assignment_5\\basicactormove\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\basicactormove\\definitions.basicactormove.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
